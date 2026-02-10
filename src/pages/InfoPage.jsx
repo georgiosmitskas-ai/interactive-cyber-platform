@@ -51,9 +51,9 @@ function InfoPage() {
 <strong>Email address:</strong> Raman.Singh@uws.ac.uk<br />
 <strong>Contact number:</strong> Not applicable</p>
 
-<p><strong>Computing Hons Project Module Coordinator:</strong> Dr Mark Stansfield<br />
-<strong>Email address:</strong> mark.stansfield@uws.ac.uk<br />
-<strong>Contact number:</strong> 0141 848 3963</p>
+<p><strong>Computing Hons Project Module Coordinator:</strong> Dr Jacob Koenig<br />
+<strong>Email address:</strong> Jacob.Koenig@uws.ac.uk<br />
+<strong>Contact number:</strong> Not applicable</p>
 
 <p><strong>Programme Title:</strong> BSc (Hons) in Cyber Security</p>
 
@@ -226,13 +226,13 @@ undertaken, please contact:
 </p>
 
 <p>
-Dr Mark Stansfield<br />
+Dr Jacob Koenig<br />
 School of Computing<br />
 University of the West of Scotland<br />
 High Street<br />
 Paisley<br />
 PA1 2BE<br />
-Email: mark.stansfield@uws.ac.uk
+Email: Jacob.Koenig@uws.ac.uk
 </p>
 
         </div>
